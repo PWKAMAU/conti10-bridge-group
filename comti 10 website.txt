@@ -1,0 +1,301 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conti 10 Bridge Group | Member Information Portal</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, sans-serif;
+            margin: 0;
+            background: #f4f6f8;
+            color: #333;
+            line-height: 1.7;
+        }
+        header {
+            background: linear-gradient(135deg, #0f4c75, #3282b8);
+            color: #fff;
+            padding: 50px 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.4rem;
+        }
+        header p {
+            margin-top: 12px;
+            font-size: 1.15rem;
+            opacity: 0.95;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+        .card {
+            background: #fff;
+            padding: 30px;
+            margin-bottom: 25px;
+            border-radius: 10px;
+            box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+        }
+        h2 {
+            color: #0f4c75;
+            margin-top: 0;
+        }
+        h3 {
+            color: #3282b8;
+        }
+        ul {
+            padding-left: 22px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 18px;
+        }
+        table th, table td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: center;
+        }
+        table th {
+            background: #e9f1f7;
+        }
+        .highlight {
+            background: #e3f2fd;
+            padding: 18px;
+            border-left: 6px solid #3282b8;
+            margin-top: 18px;
+            border-radius: 6px;
+        }
+        .notice {
+            background: #fff3cd;
+            border-left: 6px solid #ff9800;
+            padding: 20px;
+            border-radius: 6px;
+        }
+        footer {
+            text-align: center;
+            padding: 25px;
+            background: #1b262c;
+            color: #ccc;
+            font-size: 0.95rem;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Conti 10 Bridge Group</h1>
+    <p>Member Information Portal – Profit Sharing & Group Registration Update</p>
+</header>
+
+<div class="container">
+
+    <div class="card">
+        <h2>Purpose of This Website</h2>
+        <p>
+            This website is created to clearly inform all members of <strong>Conti 10 Bridge Group</strong> about
+            how our profits are shared and to officially communicate an important update regarding our
+            group registration status and future direction.
+        </p>
+        <p>
+            Our aim is transparency, unity, responsibility, and long-term growth of the group.
+        </p>
+    </div>
+
+    <div class="card notice">
+        <h2>Important Notice: Group Registration Update</h2>
+        <p>
+            The group initially applied to be registered as a <strong>Community Based Organization (CBO)</strong>.
+            However, the application was <strong>not approved</strong> at this stage.
+        </p>
+        <p>
+            After consultation with a <strong>government officer</strong>, we were officially advised that our
+            group structure and objectives are better suited for registration as a
+            <strong>Self Help Group</strong>.
+        </p>
+        <div class="highlight">
+            The leadership will therefore proceed with registering <strong>Conti 10 Bridge Group</strong>
+            as a <strong>Self Help Group</strong> in accordance with government guidelines.
+        </div>
+    </div>
+
+    <div class="card">
+        <h2>What Is a Self Help Group?</h2>
+        <p>
+            A <strong>Self Help Group</strong> is a legally recognized group of individuals who come together
+            voluntarily to support one another economically, socially, and financially.
+        </p>
+        <ul>
+            <li>Members pool resources together</li>
+            <li>The group runs income-generating activities</li>
+            <li>Decisions are made collectively</li>
+            <li>Benefits are shared fairly among members</li>
+        </ul>
+        <p>
+            Self Help Groups are recognized by the government and are eligible for various support programs.
+        </p>
+    </div>
+
+    <div class="card">
+        <h2>Benefits of Registering as a Self Help Group</h2>
+        <h3>Economic & Financial Benefits</h3>
+        <ul>
+            <li>Eligibility for government grants and funds</li>
+            <li>Ability to open and operate a group bank account</li>
+            <li>Access to loans and table banking opportunities</li>
+            <li>Structured saving and investment culture</li>
+        </ul>
+
+        <h3>Social Benefits</h3>
+        <ul>
+            <li>Strengthens unity and teamwork</li>
+            <li>Encourages accountability among members</li>
+            <li>Improves leadership and responsibility</li>
+        </ul>
+
+        <h3>Business & Growth Benefits</h3>
+        <ul>
+            <li>Ability to run registered group businesses</li>
+            <li>Ownership of group assets</li>
+            <li>Long-term sustainability</li>
+            <li>Clear profit-sharing structure</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>Profit Sharing Philosophy</h2>
+        <p>
+            Profit sharing in Conti 10 Bridge Group is designed to encourage discipline,
+            commitment, fairness, and active participation.
+        </p>
+        <div class="highlight">
+            Members who contribute more, attend meetings, and actively participate
+            benefit more from the group’s success.
+        </div>
+    </div>
+
+    <div class="card">
+        <h2>When Profits Are Shared</h2>
+        <ul>
+            <li>Profits are shared <strong>once per year</strong>.</li>
+            <li>Sharing happens only after financial review.</li>
+            <li>Group savings are prioritized before sharing.</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>Group Capital – Saving for the Future</h2>
+        <div class="highlight">
+            A minimum of <strong>30%</strong> of total profits is retained as group capital.
+        </div>
+        <p>This capital supports:</p>
+        <ul>
+            <li>Business expansion</li>
+            <li>Emergency needs</li>
+            <li>New investments</li>
+            <li>Purchase of assets</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>How Remaining Profits Are Shared</h2>
+        <table>
+            <tr>
+                <th>Criteria</th>
+                <th>Weight</th>
+                <th>Explanation</th>
+            </tr>
+            <tr>
+                <td>Contribution</td>
+                <td>60%</td>
+                <td>Consistency and amount of financial contribution</td>
+            </tr>
+            <tr>
+                <td>Attendance</td>
+                <td>20%</td>
+                <td>Commitment to meetings and official activities</td>
+            </tr>
+            <tr>
+                <td>Participation</td>
+                <td>20%</td>
+                <td>Active involvement in projects and responsibilities</td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="card">
+        <h2>Realistic Profit Sharing Example (10 Members)</h2>
+        <p>
+            To help every member clearly understand how profit sharing works in real life,
+            below is a practical example based on our actual group size of <strong>10 members</strong>.
+        </p>
+        <div class="highlight">
+            <strong>Total annual profit:</strong> KES 200,000
+        </div>
+        <h3>Step 1: Save Group Capital</h3>
+        <p>
+            As per our constitution, a minimum of <strong>30%</strong> must be retained as group capital.
+        </p>
+        <ul>
+            <li>30% of KES 200,000 = <strong>KES 60,000</strong> (Saved as group capital)</li>
+            <li>Remaining profit for sharing = <strong>KES 140,000</strong></li>
+        </ul>
+        <h3>Step 2: Break Down the KES 140,000 for Sharing</h3>
+        <table>
+            <tr>
+                <th>Category</th>
+                <th>Percentage</th>
+                <th>Amount (KES)</th>
+            </tr>
+            <tr>
+                <td>Contribution</td>
+                <td>60%</td>
+                <td>84,000</td>
+            </tr>
+            <tr>
+                <td>Attendance</td>
+                <td>20%</td>
+                <td>28,000</td>
+            </tr>
+            <tr>
+                <td>Participation</td>
+                <td>20%</td>
+                <td>28,000</td>
+            </tr>
+        </table>
+        <h3>Step 3: How Members Benefit Differently</h3>
+        <ul>
+            <li><strong>Very active member:</strong> Contributes consistently, attends most meetings, and participates actively – may earn the highest share from all three categories.</li>
+            <li><strong>Average member:</strong> Contributes fairly, attends some meetings, participates occasionally – earns a moderate share.</li>
+            <li><strong>Low commitment member:</strong> Poor contribution, low attendance, minimal participation – earns a small share.</li>
+            <li><strong>Inactive member:</strong> Fails in all areas – may earn little or no profit.</li>
+        </ul>
+        <div class="highlight">
+            This system encourages members to improve contribution, attendance, and participation
+            if they want to earn more from group profits.
+        </div>
+    </div>
+
+    <div class="card">
+        <h2>Final Approval & Transparency</h2>
+        <p>
+            All profit sharing decisions must be discussed and approved at the
+            <strong>Annual General Meeting (AGM)</strong>.
+        </p>
+        <div class="highlight">
+            No individual or leadership member may distribute profits without full member approval.
+        </div>
+    </div>
+
+</div>
+
+<footer>
+    <p>&copy; 2026 Conti 10 Bridge Group | Unity • Discipline • Growth</p>
+</footer>
+
+</body>
+</html>
